@@ -82,10 +82,10 @@ header .author img{
         var(--url) var(--left),
         url(mockup.png) 0 0;
     background-size: auto 100%;
-    width: 280px;
+    width: 289px;
     aspect-ratio: 2 / 4;
     background-blend-mode: multiply;
-    transition: 0.8s;
+    transition: 0.9s;
     mask-image: url(mockup.png);
     mask-size: auto 100%;
 }
